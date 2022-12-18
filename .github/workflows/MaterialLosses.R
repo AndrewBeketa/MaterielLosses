@@ -1,10 +1,12 @@
 #########Andrew Beketa####
 ########12/10/22##########
-###### Final ####
+###### Material Losses ####
 
-setwd("C:/Users/Andrew/Downloads")   ##Make sure to set this right so everything works###
+setwd(" ")   ##Make sure to set this right so everything works###
 
 ##first, lets load our data so we can use it
+
+
 
 losses <- read.csv("Losses.csv")
 
